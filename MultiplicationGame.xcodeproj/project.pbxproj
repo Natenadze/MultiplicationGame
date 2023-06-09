@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		5DB6C7012A332DEA009F5EC0 /* MultiplicationGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB6C7002A332DEA009F5EC0 /* MultiplicationGameApp.swift */; };
-		5DB6C7032A332DEA009F5EC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB6C7022A332DEA009F5EC0 /* ContentView.swift */; };
 		5DB6C7052A332DEB009F5EC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB6C7042A332DEB009F5EC0 /* Assets.xcassets */; };
 		5DB6C7082A332DEB009F5EC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DB6C7072A332DEB009F5EC0 /* Preview Assets.xcassets */; };
+		5DB6C70F2A33314B009F5EC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DB6C70E2A33314B009F5EC0 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5DB6C6FD2A332DEA009F5EC0 /* MultiplicationGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiplicationGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DB6C7002A332DEA009F5EC0 /* MultiplicationGameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplicationGameApp.swift; sourceTree = "<group>"; };
-		5DB6C7022A332DEA009F5EC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5DB6C7042A332DEB009F5EC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DB6C7072A332DEB009F5EC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5DB6C70E2A33314B009F5EC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				5DB6C7002A332DEA009F5EC0 /* MultiplicationGameApp.swift */,
-				5DB6C7022A332DEA009F5EC0 /* ContentView.swift */,
+				5DB6C70E2A33314B009F5EC0 /* ContentView.swift */,
 				5DB6C7042A332DEB009F5EC0 /* Assets.xcassets */,
 				5DB6C7062A332DEB009F5EC0 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5DB6C7032A332DEA009F5EC0 /* ContentView.swift in Sources */,
+				5DB6C70F2A33314B009F5EC0 /* ContentView.swift in Sources */,
 				5DB6C7012A332DEA009F5EC0 /* MultiplicationGameApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
